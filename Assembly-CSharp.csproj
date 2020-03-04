@@ -69,8 +69,8 @@
     <Compile Include="Assets\EasyBgDownloader\Scripts\EasyBgDownloaderCtl.cs" />
     <Compile Include="Assets\HotFix\DownloadManager.cs" />
     <Compile Include="Assets\HotFix\WebFileDownloader.cs" />
-    <Compile Include="Assets\RaylayTest\Download\TestDownloadAndZip.cs" />
-    <Compile Include="Assets\RaylayTest\TestMain.cs" />
+    <Compile Include="Assets\Raylay\Scripts\Download\DownloadAndZip.cs" />
+    <Compile Include="Assets\Raylay\Scripts\TestMain.cs" />
     <None Include="Assets\EasyBgDownloader\Plugins\Android\AndroidManifest.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/RayLay/work/Projects/BackDownload/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

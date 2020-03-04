@@ -167,7 +167,7 @@ namespace SDKs.Downloader
  
                             _progress = (float)streamLength / (float)totalLength;
 
-                            float val = (float)(streamLength + lastLen);
+                            float val = (float)(streamLength );
 
                             progress = val / totalLength;
 

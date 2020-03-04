@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TestDownloadAndZip.unity
+    path: Assets/Raylay/Scenes/Home.unity
     guid: b8513cb414dda7a49b6587ce4bbb102e
   - enabled: 1
-    path: Assets/Main.unity
+    path: Assets/Raylay/Scenes/Main.unity
     guid: 32286534e95ee81428d45744185044d3
   m_configObjects: {}
